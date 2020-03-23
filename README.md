@@ -1,5 +1,5 @@
 # COVID19-Spain
-Importante: Bayesian analysis of COVID19 evolution in Spain with Bayesian methods, a the natural approach to inference, with  PyMC as probabilistic programming language.
+Importante: Bayesian analysis of COVID19 evolution in Spain with Bayesian methods, a natural approach to inference, using  PyMC as probabilistic programming language.
 The notebook gets the data directly from Datatista (https://github.com/datadista/datasets/blob/master/COVID%2019/nacional_covid19.csv). 
 This notebook is adapted from a Packt Publishing notebook (https://github.com/PacktPublishing/Bayesian-Analysis-with-Python).
 
